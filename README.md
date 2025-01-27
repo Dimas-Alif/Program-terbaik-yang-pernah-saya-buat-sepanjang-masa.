@@ -25,11 +25,12 @@ Mendukung input dari berbagai jenis suku, bahkan untuk suku yang belum ada di da
 2. Letakkan file video lokal (jika ada) di direktori yang sama dengan program.
 
 3. Kompilasi program dengan perintah berikut:
-    ```
-    g++ -o EthnicSelector EthnicSelector.cpp
-4. Jalankan program:
 ```
-./EthnicSelector
+g++ -o EthnicSelector TebakSuku.cpp
+```
+5. Jalankan program:
+```
+./TebakSuku
 ```
 
 5. Pilih opsi berdasarkan daftar yang tersedia, atau masukkan nama suku lain.
